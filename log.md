@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 9, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Set up project modules for service and system test and implemented smoke test.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/85097afe3afe79a3fd1593d3a4d4c518f0d94f4e)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: April 10, 2017
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Added a first entity (`RecurringExpense`) which is the core entity of the domain.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Things I've learned**: I've started to big and wanted to put too much attributes and functionality into the first version. So I spend too much time thinking about details I might eventually need.  
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/1852d341011a5485016cbf6498d6195c4646e7d8)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Resources**:
+* [Agile Principle 5: Develop small, incremental releases and iterate](http://www.allaboutagile.com/agile-principle-5-how-do-you-eat-an-elephant/)
