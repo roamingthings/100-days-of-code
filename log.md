@@ -26,3 +26,13 @@
 **Things I've planned for tomorrow**: Add some more (complex) attributes and prepare a web ui.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/f28374c9d3d071a454cd85034ca8ab3dba94eeb3)
+
+### Day 4: April 12, 2017
+
+**Today's Progress**: Added entity listeners to update meta information regarding create and modify.
+
+**Things I've learned**: Test support provided by the Spring Framework speeds up development of tests.
+
+**Things I've planned for tomorrow**: Since I didn't get to this task today: Add some more (complex) attributes and prepare a web ui.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/ad98a329ed14509111d753c960c07d7698394d0f)
