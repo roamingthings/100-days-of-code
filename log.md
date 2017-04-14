@@ -36,3 +36,23 @@
 **Things I've planned for tomorrow**: Since I didn't get to this task today: Add some more (complex) attributes and prepare a web ui.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/ad98a329ed14509111d753c960c07d7698394d0f)
+
+### Day 5: April 13, 2017
+
+**Today's Progress**: Added infrastructure for UI using MVC and Thymeleaf.
+
+**Things I've learned**: I'm used to implement views using JSF. I just learned that Thymleaf behaves completely different.
+
+**Things I've planned for tomorrow**: Improve the ui and feed in first "real" data.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/6572e51fe17e3f57e12ea9734a0c195f651e20e9)
+
+### Day 6: April 14, 2017
+
+**Today's Progress**: Pull UI into a separate project.
+
+**Things I've learned**: I came to the conclusion that a separate UI project will introduce a clean separation between UI and service. I've been thinking if this is the right time to do this kind of split/refactoring or if it is better to continue implementing both parts in one project and do the refactoring later. However since I want to learn some best practices I decided to do the separation now.
+
+**Things I've planned for tomorrow**: Again ;) Improve the ui and feed in first "real" data.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/7aa8ed1fe90d2c0b3de8829afe8c3b1f24246ef3)
