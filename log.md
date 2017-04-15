@@ -41,7 +41,7 @@
 
 **Today's Progress**: Added infrastructure for UI using MVC and Thymeleaf.
 
-**Things I've learned**: I'm used to implement views using JSF. I just learned that Thymleaf behaves completely different.
+**Things I've learned**: I'm used to implement views using JSF. I just learned that Thymeleaf behaves completely different.
 
 **Things I've planned for tomorrow**: Improve the ui and feed in first "real" data.
 
@@ -56,3 +56,13 @@
 **Things I've planned for tomorrow**: Again ;) Improve the ui and feed in first "real" data.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/7aa8ed1fe90d2c0b3de8829afe8c3b1f24246ef3)
+
+### Day 7: April 15, 2017
+
+**Today's Progress**: Moved to a new layout based on Bootstrap dashboard example and added a page example for editing.
+
+**Things I've learned**: I've been used to write UIs using JSF. The more I get into Thymleaf I notice that the paradigm and mechanisms are completely different and I need some more time to wrap my head around. However I like the approach to first model in "pure" HTML and later switch to a Thymleaf template
+
+**Things I've planned for tomorrow**: Use Thymeleaf to reuse parts of the UI.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/872a5fa414589f5ab3aa542e755b88ec77166567)
