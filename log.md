@@ -66,3 +66,13 @@
 **Things I've planned for tomorrow**: Use Thymeleaf to reuse parts of the UI.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/872a5fa414589f5ab3aa542e755b88ec77166567)
+
+### Day 8: April 16, 2017 (Happy Easter)
+
+**Today's Progress**: Figured out how to use the Thymeleaf layout mechanism. Added Font Awesome.
+
+**Things I've learned**: Following an example that was using the Thymeleaf mechanism I almost freaked out since I couldn't get it to work in my project until I learned that and how I have to switch to Version 3 of Thymeleaf in my Spring Boot project.
+
+**Things I've planned for tomorrow**: Utilize Thymeleaf to replace more static data with real values.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/43199acee6625180ad1ccb6fa4c7cb70b27d480e)
