@@ -86,3 +86,13 @@
 **Things I've planned for tomorrow**: Try to extract the id from HATEOAS objects and decide to continue on this route or switch over to a monolith architecture (very likely).
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/88af7c7bf85d581169e5e0219ac50e43bb1653d6)
+
+### Day 10: April 18, 2017
+
+**Today's Progress**: Learned about projections when it comes to REST resources in Spring. List of expenses now contains "real" values.
+
+**Things I've learned**: How to access the system id without parsing the link / resource that is included. I'm using a projection to add the entity id as a property `systemId` and use this in the list.
+
+**Things I've planned for tomorrow**: Try to get the edit page working.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/4988fb7b4e3a0a0a1abdb7a7dfc3a7f96f1e4d31)
