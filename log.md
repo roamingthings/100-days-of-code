@@ -96,3 +96,13 @@
 **Things I've planned for tomorrow**: Try to get the edit page working.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/4988fb7b4e3a0a0a1abdb7a7dfc3a7f96f1e4d31)
+
+### Day 11: April 19, 2017
+
+**Today's Progress**: Edit existing entities in a HTML form with Thymeleaf.
+
+**Things I've learned**: I learned about the basic round trip, how Thymeleaf and Spring handle and convert data passed back and forth.
+
+**Things I've planned for tomorrow**: Strengthen the form, Add validation (messages), create new instances and look for/compare with "best practices". _Most of all add tests!_
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/6be94ce653e2f229debbbe0de383c43cdaaf8e57)
