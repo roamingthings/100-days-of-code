@@ -106,3 +106,13 @@
 **Things I've planned for tomorrow**: Strengthen the form, Add validation (messages), create new instances and look for/compare with "best practices". _Most of all add tests!_
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/6be94ce653e2f229debbbe0de383c43cdaaf8e57)
+
+### Day 12: April 20, 2017
+
+**Today's Progress**: Added form validation.
+
+**Things I've learned**: I learned about the basic validation mechanism in Spring MVC.
+
+**Things I've planned for tomorrow**: Strengthen the form, Add validation (messages), create new instances and look for/compare with "best practices". _Most of all add tests!_
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/82ee5ba0139640d93a9c4214519cf7362c97d194)
