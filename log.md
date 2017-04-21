@@ -116,3 +116,13 @@
 **Things I've planned for tomorrow**: Strengthen the form, Add validation (messages), create new instances and look for/compare with "best practices". _Most of all add tests!_
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/82ee5ba0139640d93a9c4214519cf7362c97d194)
+
+### Day 13: April 21, 2017
+
+**Today's Progress**: Added messages resource.
+
+**Things I've learned**: I learned more about the validation and resource mechanism in Spring/Thymeleaf.
+
+**Things I've planned for tomorrow**: Create new entities and look for/compare with "best practices". _Most of all add tests!_
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/a9d7daf2c43618962fecee1ebc05034cb10f3a64)
