@@ -126,3 +126,13 @@
 **Things I've planned for tomorrow**: Create new entities and look for/compare with "best practices". _Most of all add tests!_
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/a9d7daf2c43618962fecee1ebc05034cb10f3a64)
+
+### Day 14: April 22, 2017
+
+**Today's Progress**: Migrated to Thymeleaf layout dialect.
+
+**Things I've learned**: I learned more about the layout method of Thymeleaf.
+
+**Things I've planned for tomorrow**: Create new entities and look for/compare with "best practices". _Most of all add tests!_
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/a4300797da0b8916de98a8e414c68c4d8c6fb553)
