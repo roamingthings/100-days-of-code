@@ -136,3 +136,13 @@
 **Things I've planned for tomorrow**: Create new entities and look for/compare with "best practices". _Most of all add tests!_
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/a4300797da0b8916de98a8e414c68c4d8c6fb553)
+
+### Day 15: April 23, 2017
+
+**Today's Progress**: Wrote first MVC integration tests. Started migration to `LocalDate`.
+
+**Things I've learned**: Learned about testing ov Spring MVC controllers including mocking. Also learned about using `LocalDate` instead of `Date`.
+
+**Things I've planned for tomorrow**: Create new entities. Write more MVC integration tests.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/1b16be4ffb96891da700f45669f96d806b10abe8)
