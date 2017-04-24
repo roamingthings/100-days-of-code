@@ -146,3 +146,14 @@
 **Things I've planned for tomorrow**: Create new entities. Write more MVC integration tests.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/1b16be4ffb96891da700f45669f96d806b10abe8)
+
+### Day 16: April 24, 2017
+
+**Today's Progress**: Added a lot of Docker stuff: Building an image,orchestration with docker swarm and load balancing. Also new entities can now be created.
+
+**Things I've learned**: Learned about building a docker image with gradle, pushing to a registry and setting up a container infrastructure with load balancing.
+
+**Things I've planned for tomorrow**: Improve database setup and initialization.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/74530c34682aca4efaf582d0be50b995608e7ded)
+
