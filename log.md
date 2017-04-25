@@ -157,3 +157,13 @@
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/74530c34682aca4efaf582d0be50b995608e7ded)
 
+### Day 17: April 25, 2017
+
+**Today's Progress**: Added field reference number and started investigation about useful integration tests for MVC controller. Also made test profile configurable and only loading sample data in dev profile.
+
+**Things I've learned**: Handling active profile for testing and developing stage.
+
+**Things I've planned for tomorrow**: Get more into testing of an MVC controller.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/f380293215370774cf7ef71793b14cf50cb218d9)
+
