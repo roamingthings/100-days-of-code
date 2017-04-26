@@ -167,3 +167,13 @@
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/f380293215370774cf7ef71793b14cf50cb218d9)
 
+### Day 18: April 26, 2017
+
+**Today's Progress**: Added deletion of entities.
+
+**Things I've learned**: Learned about how to delete using MVC.
+
+**Things I've planned for tomorrow**: Change deletion to AJAX.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/384c22e4e9227bad8ed540c54a3393bfc7b4e287)
+
