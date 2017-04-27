@@ -177,3 +177,12 @@
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/384c22e4e9227bad8ed540c54a3393bfc7b4e287)
 
+### Day 19: April 27, 2017
+
+**Today's Progress**: Added deletion of entities by AJAX requests.
+
+**Things I've learned**: Learned about how to partially render view in MVC and use AJAX.
+
+**Things I've planned for tomorrow**: Look more into AJAX and partial view rendering.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/f359e4bda0bcce351545ae9ea4697756eef9c79a)
