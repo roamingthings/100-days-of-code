@@ -186,3 +186,13 @@
 **Things I've planned for tomorrow**: Look more into AJAX and partial view rendering.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/f359e4bda0bcce351545ae9ea4697756eef9c79a)
+
+### Day 20: April 28, 2017
+
+**Today's Progress**: Only a small update today. Cleaned up the script and added the list of last expenses to the home page.
+
+**Things I've learned**: Externalizing the scripts and reuse fragments.
+
+**Things I've planned for tomorrow**: Add security.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/fc7acee610b700f76a903d2d715e57fab4d904df)
