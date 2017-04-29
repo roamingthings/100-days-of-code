@@ -196,3 +196,13 @@
 **Things I've planned for tomorrow**: Add security.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/fc7acee610b700f76a903d2d715e57fab4d904df)
+
+### Day 21: April 29, 2017
+
+**Today's Progress**: Started integrating security by implementing a simple sign in form.
+
+**Things I've learned**: Spring security basics.
+
+**Things I've planned for tomorrow**: Improve usage of Spring Security.
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/a353432c0729371adb3d11cc17ed6278ccad1ef6)
