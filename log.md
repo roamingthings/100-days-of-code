@@ -206,3 +206,13 @@
 **Things I've planned for tomorrow**: Improve usage of Spring Security.
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/a353432c0729371adb3d11cc17ed6278ccad1ef6)
+
+### Day 22: April 30, 2017
+
+**Today's Progress**: Did a bit more security. Now logout is possible and user name is displayed.
+
+**Things I've learned**: Mor on Spring Security.
+
+**Things I've planned for tomorrow**:
+
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/8522c5a78ee895d8eb585d84757e5791047856ef)
