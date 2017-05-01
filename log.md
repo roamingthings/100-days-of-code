@@ -211,8 +211,18 @@
 
 **Today's Progress**: Did a bit more security. Now logout is possible and user name is displayed.
 
-**Things I've learned**: Mor on Spring Security.
+**Things I've learned**: More on Spring Security.
 
 **Things I've planned for tomorrow**:
 
 **Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/8522c5a78ee895d8eb585d84757e5791047856ef)
+
+### Day 23: May 1, 2017
+
+**Today's Progress**: Pulled persistence supporting classes into a separate project.
+
+**Things I've learned**: A lot of gradle.
+
+**Things I've planned for tomorrow**:
+
+**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/7f02cc53c4c51a8e9c3035599c40bcc8d6996475)
