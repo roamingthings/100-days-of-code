@@ -226,3 +226,13 @@
 **Things I've planned for tomorrow**:
 
 **Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/7f02cc53c4c51a8e9c3035599c40bcc8d6996475)
+
+### Day 24: May 2, 2017
+
+**Today's Progress**: Added GitHub and facebook authorization using OAuth2.
+
+**Things I've learned**: OAuth2 in Spring.
+
+**Things I've planned for tomorrow**: Try to add local user accounts.
+
+**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/7bd7869a1a10e8f27be1e8463b7c7fadce67afd8)
