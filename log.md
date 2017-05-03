@@ -236,3 +236,13 @@
 **Things I've planned for tomorrow**: Try to add local user accounts.
 
 **Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/7bd7869a1a10e8f27be1e8463b7c7fadce67afd8)
+
+### Day 25: May 3, 2017
+
+**Today's Progress**: Added handling of OAuth2 login result and introduced UserProfile.
+
+**Things I've learned**: More OAuth2 in Spring.
+
+**Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
+
+**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/87fd4361de9b8e2715448d8c1457f9ae467cd1ea)
