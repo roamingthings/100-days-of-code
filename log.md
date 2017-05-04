@@ -246,3 +246,13 @@
 **Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
 
 **Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/87fd4361de9b8e2715448d8c1457f9ae467cd1ea)
+
+### Day 26: May 4, 2017
+
+**Today's Progress**: Still (unsuccesfully) trying to figure out how to create a local profile for a successful OAuth2 authentication.
+
+**Things I've learned**: More Spring Security.
+
+**Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
+
+**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/1f52f69e5782f99fe8289fcd30534714dc670069)
