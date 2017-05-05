@@ -256,3 +256,13 @@
 **Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
 
 **Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/1f52f69e5782f99fe8289fcd30534714dc670069)
+
+### Day 27: May 5, 2017
+
+**Today's Progress**: Creating UserProfile after first login from GitHub or facebook.
+
+**Things I've learned**: More about Spring MVC.
+
+**Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
+
+**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/1b1d406cf02d57f4f6b3509956949a612a2d571e)
