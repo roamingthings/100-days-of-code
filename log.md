@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+**Please note: I've moved the log to my blog. Please visit [http://roamingthings.de/tag/100-days-of-code](http://roamingthings.de/tag/100-days-of-code/) if you want to follow along.**
+
 ### Day 1: April 9, 2017
 
 **Today's Progress**: Set up project modules for service and system test and implemented smoke test.
