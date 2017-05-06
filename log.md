@@ -235,7 +235,7 @@
 
 **Things I've planned for tomorrow**: Try to add local user accounts.
 
-**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/7bd7869a1a10e8f27be1e8463b7c7fadce67afd8)
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/7bd7869a1a10e8f27be1e8463b7c7fadce67afd8)
 
 ### Day 25: May 3, 2017
 
@@ -245,7 +245,7 @@
 
 **Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
 
-**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/87fd4361de9b8e2715448d8c1457f9ae467cd1ea)
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/87fd4361de9b8e2715448d8c1457f9ae467cd1ea)
 
 ### Day 26: May 4, 2017
 
@@ -255,7 +255,7 @@
 
 **Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
 
-**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/1f52f69e5782f99fe8289fcd30534714dc670069)
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/1f52f69e5782f99fe8289fcd30534714dc670069)
 
 ### Day 27: May 5, 2017
 
@@ -265,4 +265,4 @@
 
 **Things I've planned for tomorrow**: Continue on `UserProfile` handling/creation.
 
-**Link(s) to work**: [Persistence Support](https://github.com/roamingthings/persistence-support/commit/1b1d406cf02d57f4f6b3509956949a612a2d571e)
+**Link(s) to work**: [Expenses Service](https://github.com/roamingthings/expenses-service/commit/1b1d406cf02d57f4f6b3509956949a612a2d571e)
